@@ -53,4 +53,4 @@ fastlane/Preview.html
 fastlane/screenshots
 
 # Environment settings
-.env
+.env.*

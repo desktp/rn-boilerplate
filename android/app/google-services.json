@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1089726145542",
+    "firebase_url": "https://boilerplate-ea24a.firebaseio.com",
+    "project_id": "boilerplate-ea24a",
+    "storage_bucket": "boilerplate-ea24a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089726145542:android:d662a78853b43a2e",
+        "android_client_info": {
+          "package_name": "com.boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089726145542-b2dhina7ddhrqodhqomnb7t4ggrojc3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boilerplate",
+            "certificate_hash": "a102687d8129538c2257449d35d6afb0d3fa5442"
+          }
+        },
+        {
+          "client_id": "1089726145542-66595r6u2aqhshq8hti0ppps4fis8v0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACCMqTlS35gsuylVGXrnTDzxmnp9q4Bv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089726145542-66595r6u2aqhshq8hti0ppps4fis8v0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
